@@ -1,3 +1,3 @@
 # my-goals
 
-Week 1: Learned Git, bash, terminal, 
+Week 1: Learned Git, bash, terminal, flexbox, css, 
